@@ -1,0 +1,15 @@
+/*  */
+span{
+    background-color: green;
+    color: white;
+}
+.green{
+    color: green;
+}
+body{
+    background-image: url('/images/IMG_20171225_115854.jpg'), url('/images/IMG_20171225_120453.jpg' );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode:color-dodge ;
+
+}
